@@ -1,0 +1,15 @@
+# 本地工具数据（含工作日志/可能存在的凭据，勿纳入版本控制）
+.workbuddy/
+
+# Obsidian 个人状态（布局、缓存；核心配置如 app.json 仍纳入管理）
+.obsidian/workspace*
+.obsidian/cache/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 临时/备份文件
+*.tmp
+*.bak
