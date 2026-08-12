@@ -1,3 +1,12 @@
+---
+type: 热梗卡
+status: 灵感
+tags: [热梗, 跨文化, 文化碰撞, 都市, 灵感]
+source: "海外社交平台 #Chinamaxxing#（2026-08-10，浏览 40 亿+）"
+date: 2026-08-10
+updated: 2026-08-11
+---
+
 # Chinamaxxing（极致中国化）
 
 ---

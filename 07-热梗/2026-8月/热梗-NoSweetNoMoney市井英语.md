@@ -1,3 +1,12 @@
+---
+type: 热梗卡
+status: 灵感
+tags: [热梗, 市井英语, 混搭, 搞笑, 灵感]
+source: 福建水果摊叫卖视频（2026-08-05，微博热搜 #Watermelon又降价了#）
+date: 2026-08-05
+updated: 2026-08-11
+---
+
 # NoSweetNoMoney·市井英语
 
 ---
