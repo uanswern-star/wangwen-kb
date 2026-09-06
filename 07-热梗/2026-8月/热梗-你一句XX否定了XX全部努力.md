@@ -1,5 +1,5 @@
 ---
-type: 热梗卡
+type: 热梗
 status: 灵感
 tags: [热梗, 情绪梗, 委屈句式]
 source: "B站「枪弹轨迹」BV1TmMy6tEpK（2026-08-09）"

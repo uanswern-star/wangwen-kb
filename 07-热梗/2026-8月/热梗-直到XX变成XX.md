@@ -1,5 +1,5 @@
 ---
-type: 热梗卡
+type: 热梗
 status: 灵感
 tags: [热梗, 句式, 反转, 治愈, 灵感]
 source: "B站「梗百科」《直到XX变成XX是啥梗？》BV1yxum6AEfC（2026-08-09，49.5万播放）"

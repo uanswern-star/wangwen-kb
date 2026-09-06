@@ -1,5 +1,5 @@
 ---
-type: 热梗卡
+type: 热梗
 status: 灵感
 tags: [热梗, 跨文化, 文化碰撞, 都市, 灵感]
 source: "海外社交平台 #Chinamaxxing#（2026-08-10，浏览 40 亿+）"
